@@ -1,0 +1,6 @@
+{
+  "name": "Simply Notify",
+  "short_name": "Notify",
+  "start_url": "./index.html",
+  "gcm_sender_id": "245414137241"
+}
