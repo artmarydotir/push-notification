@@ -10,5 +10,5 @@ curl -X POST -H "Authorization: key=<a>" -H "Content-Type: application/json" \
         "click_action": "noway.com"
     }
   },
-  "to": "<b>"
+  "to": "<btoken>"
 }' https://fcm.googleapis.com/fcm/send
